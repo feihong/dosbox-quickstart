@@ -26,6 +26,11 @@ You can now start Windows 3.1 by running
 
 tbd
 
+## Games
+
+- [Dr. Brain series](https://www.filfre.net/2018/02/dr-brain/)
+- [The Fool's Errand](https://www.fools-errand.com/02-FE/index.htm) (download [Apple Silicon version of Mini vMac](https://www.gryphel.com/c/minivmac/b_dl_std.html))
+
 ## Links
 
 - [Installing Microsoft Windows 3.1x in DOSBox-X](https://dosbox-x.com/wiki/Guide%3AInstalling-Windows-3.1x)
